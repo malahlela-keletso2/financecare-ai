@@ -30,7 +30,7 @@ Age, gender, city and other personal details are never used to score a customer.
 
 The Comprehensive Banking Database is included in this repository as `Comprehensive_Banking_Database.csv` so the project runs straight after cloning. It comes from Kaggle, and the original author keeps the rights to it:
 
-[Kaggle dataset link](PASTE-YOUR-KAGGLE-LINK-HERE)
+[Kaggle dataset link](https://www.kaggle.com/datasets/muhammadroshaanriaz/bankvault-comprehensive-insights-database)
 
 ## Run it
 
@@ -50,3 +50,6 @@ python financecare_ai.py
 | `train_model.py` | Trains the optional model |
 | `test_distress.py` | Tests |
 | `requirements.txt` | Python packages |
+
+Author
+Malahlela Keletso
